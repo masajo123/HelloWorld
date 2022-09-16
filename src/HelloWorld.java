@@ -8,6 +8,8 @@ public class HelloWorld {
         System.out.println("Welcome to KONF 2022");
         System.out.println("Buonas Dias");
         System.out.println("Va bene");
+        System.out.println("Va bene");
+
 
 
 
